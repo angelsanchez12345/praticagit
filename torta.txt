@@ -4,3 +4,5 @@ huevo
 harina
 mantequilla 
 canela
+chocolate
+fresa
