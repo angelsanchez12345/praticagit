@@ -5,4 +5,6 @@ harina
 mantequilla 
 canela
 chocolate
-fresa
+basitos 
+galletas
+polvito
